@@ -1,3 +1,8 @@
-On 'master' branch:
+Update to v1.65
 
-ScriBt is alright.
+Changelog:
+
+* Automated Kernel building
+* Set custom username and hostname
+* Fix problems with automation
+* Improve ROM Selection mechanism
