@@ -1,0 +1,10 @@
+v1.74
+
+* Major Operational Improvements in ScriBt and upScriBt
+	- Suppress 404 Messages
+	- Interrupt Message on Ctrl+C
+	- Proper Temp files cleanup
+
+* [FIX] repo init always returns Failed Status
+* Remove absent package from D16 package list
+* Issues with Kernel Building solved
